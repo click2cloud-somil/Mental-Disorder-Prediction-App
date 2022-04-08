@@ -1,1 +1,1 @@
-# Mental-Disorder
+# Mental-Disorder-Prediction-App
